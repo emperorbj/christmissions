@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom';
 
 const NavigationBar = () => {
     return (
+        // navigation bar
         <nav className='bg-purple-400 w-full h-[70px]'>
             <div>
                 Logo
